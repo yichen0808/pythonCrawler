@@ -1,3 +1,4 @@
+# 模拟你使用浏览器
 from selenium import webdriver
 
 # 初始化 ChromeDriver
@@ -11,3 +12,4 @@ print("Page title: ", driver.title)
 
 # 关闭浏览器
 driver.quit()
+# 剩下的略
